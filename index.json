@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      
+      "image": "https://i.postimg.cc/fRKP6p7p/Java-Script-logo-vector-01.png"
+    },
+    {
+      "name": "Vue.js",
+      "image": "https://i.postimg.cc/GptX62mT/Vue-JS-logo-vector-01.png"
+    },
+    {
+      "name": "HTML",
+      "image": "https://i.postimg.cc/1z8KJjvp/HTML-5-logo-vector-01.png"
+    },
+    {
+      "name": "CSS",
+      "image": "https://i.postimg.cc/QCz8kVCg/CSS-3-logo-vector-01.png"
+    },
+    {
+        "name": "Bootstrap",
+        "image": "https://i.postimg.cc/c4qwSJXt/bootstrap-icons.png"
+
+    }
+  ],
+  "education": [
+    {
+        
+        "qualification": "Web Development",
+        "instituition": "Life Choices Avademy",
+        "year": "present"
+
+    },
+    {
+        "qualification": "NSC, matric",
+        "instituition": "Kuils River Technical High School",
+        "year": 2016
+    },
+    {
+        "qualification": "AWS Bootcamp",
+        "instituition": "Rlabs, Athlone ",
+        "year": 2022
+        
+    },
+    {
+        "qualification": "DATA Analyst Foundation",
+        "instituition": "Cousera",
+        "year": 2021
+    }
+
+  ],
+  "projects": [
+    {
+      "title": "BMI Calculator",
+      "description": "I created a bmi calculator using html, css and javascript adding cascading color scheme as part of a project at life choices academy",
+      "netlify-url": "https://jasonbmicalculator.netlify.app/",
+      "gihub-url":"https://github.com/JCGViljoen/BMIcalculator",
+      "image": "https://i.postimg.cc/brJhVnBD/Screenshot-2023-07-01-113736.png"
+    },
+    {
+        "title": "BMI Calculator",
+        "description": "I built a claculator as one of our first javascript tasks",
+        "netlify-url": "https://boisterous-elf-e9c2bb.netlify.app/",
+        "gihub-url": "https://github.com/JCGViljoen/BMIcalculator",
+        "image": ""
+    },
+    {
+      "title": "e-commerce website",
+      "description": "I created a guitar themed, e-commerce website using html, css, bootstrap and javascript, where usues can ue the site to added products in real time ",
+      "netlify-url": "https://e-commerce-store-guitars.netlify.app/",
+      "gihub-url": "https://github.com/JCGViljoen/e-commercesite-project",
+      "image": "https://i.postimg.cc/hP8YQsPS/Screenshot-2023-07-01-115535.png"
+    }
+  ],
+  "testimonials": [
+    {
+      
+    }
+  ]
+}
