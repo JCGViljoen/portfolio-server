@@ -33,24 +33,32 @@
         
         "qualification": "Web Development",
         "instituition": "Life Choices Avademy",
-        "year": "present"
+        "year": "present",
+        "certificate": ""
 
     },
     {
         "qualification": "NSC, matric",
         "instituition": "Kuils River Technical High School",
-        "year": 2016
+        "year": 2016,
+         "certificate": "file:///C:/Users/jcgvi/Desktop/updated%20job%20docs/Matric%20results%20(1).pdf"
+
     },
     {
         "qualification": "AWS Bootcamp",
         "instituition": "Rlabs, Athlone ",
-        "year": 2022
+        "year": 2022,
+        "certificate": "file:///C:/Users/jcgvi/Desktop/updated%20job%20docs/aws%20rlabs%20cert.pdf"
+
         
     },
     {
         "qualification": "DATA Analyst Foundation",
         "instituition": "Cousera",
-        "year": 2021
+        "year": 2021,
+        "certificate": "file:///C:/Users/jcgvi/Desktop/updated%20job%20docs/data%20analysis.pdf"
+
+
     }
 
   ],
