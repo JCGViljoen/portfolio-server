@@ -62,7 +62,7 @@
     }
 
   ],
-  "projects": [
+  "project": [
     {
       "title1": "BMI Calculator",
       "description1": "I created a bmi calculator using html, css and javascript adding cascading color scheme as part of a project at life choices academy",
