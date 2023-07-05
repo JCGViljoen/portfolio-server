@@ -74,7 +74,7 @@
   "project": [
     {
       "id": 1,
-      "title": "BMI Calculator",
+      "title": "Calculator",
       "description": "I created a bmi calculator using html, css and javascript adding cascading color scheme as part of a project at life choices academy",
       "netlify-url": "https://jasonbmicalculator.netlify.app/",
       "gihub-url":"https://github.com/JCGViljoen/BMIcalculator",
