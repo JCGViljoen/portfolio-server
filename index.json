@@ -77,7 +77,7 @@
       "title": "BMI calculator",
       "description": "I created a bmi calculator using html, css and javascript adding cascading color scheme as part of a project at life choices academy",
       "netlify-url": "https://jasonbmicalculator.netlify.app/",
-      "gihub-url":"https://github.com/JCGViljoen/BMIcalculator",
+      "github-url":"https://github.com/JCGViljoen/BMIcalculator",
       "image": "https://i.postimg.cc/brJhVnBD/Screenshot-2023-07-01-113736.png"
     },
     {
@@ -85,7 +85,7 @@
         "title": "Calculator",
         "description": "I built a claculator as one of our first javascript tasks",
         "netlify-url": "https://boisterous-elf-e9c2bb.netlify.app/",
-        "gihub-url": "https://github.com/JCGViljoen/BMIcalculator",
+        "github-url": "https://github.com/JCGViljoen/BMIcalculator",
         "image": "https://i.postimg.cc/7LZBg0wX/Screenshot-2023-07-01-115012.png"
     },
     {
@@ -93,7 +93,7 @@
       "title": "e-commerce website",
       "description": "I created a guitar themed, e-commerce website using html, css, bootstrap and javascript, where usues can ue the site to added products in real time ",
       "netlify-url": "https://e-commerce-store-guitars.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/e-commercesite-project",
+      "github-url": "https://github.com/JCGViljoen/e-commercesite-project",
       "image": "https://i.postimg.cc/hP8YQsPS/Screenshot-2023-07-01-115535.png"
     },
     {
@@ -101,7 +101,7 @@
       "title": "to do list app",
       "description": "A to do list app made with html, css and javascript that saves a user input in real time   ",
       "netlify-url": "https://viljoentodolist.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/to-do-list",
+      "github-url": "https://github.com/JCGViljoen/to-do-list",
       "image": "https://i.postimg.cc/t48ysDz0/Screenshot-2023-07-02-151221.png"
     },
     {
@@ -109,7 +109,7 @@
       "title": "Dummy portfolio",
       "description": "Created a portfolio using bootstrap, css and html",
       "netlify-url": "https://marvelous-naiad-9c6b01.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/myportfolio",
+      "github-url": "https://github.com/JCGViljoen/myportfolio",
       "image": "https://i.postimg.cc/NFWqKj16/Screenshot-2023-07-02-152455.png"
     },
     {
@@ -117,7 +117,7 @@
       "title": "Temperature Converter",
       "description": " A converter app converting fahrenheit to celcius or celcius to fahrenheit ",
       "netlify-url": "https://vijoentemp-converter.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/tempconverter",
+      "github-url": "https://github.com/JCGViljoen/tempconverter",
       "image": "https://i.postimg.cc/W1CG59rb/temp-converter.png"
     }
   ],
