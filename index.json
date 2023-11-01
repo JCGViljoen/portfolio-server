@@ -82,7 +82,7 @@
     },
     {
         "title": "BMI Calculator",
-        "description": "I built a claculator as one of our first javascript tasks",
+        "description": "I built a calculator as one of our first javascript tasks",
         "netlifyurl": "https://boisterous-elf-e9c2bb.netlify.app/",
         "githuburl": "https://github.com/JCGViljoen/BMIcalculator",
         "image": "https://i.postimg.cc/7LZBg0wX/Screenshot-2023-07-01-115012.png"
@@ -105,11 +105,11 @@
     },
     {
       "id": 5,
-      "title": "Dummy portfolio",
-      "description": "Created a portfolio using bootstrap, css and html",
-      "netlifyurl": "https://marvelous-naiad-9c6b01.netlify.app/",
-      "githuburl": "https://github.com/JCGViljoen/myportfolio",
-      "image": "https://i.postimg.cc/NFWqKj16/Screenshot-2023-07-02-152455.png"
+      "title": "Capstone ",
+      "description": "In my capstone project, I developed a dynamic e-commerce website from the ground up, utilizing cutting-edge technologies. This project seamlessly combined Vue.js for the frontend and Node.js with MySQL for the backend, offering an intuitive user interface and robust database management. The result was a fully functional and responsive e-commerce platform that demonstrated my expertise in web development, front-end design, and database integration.",
+      "netlifyurl": "https://capstone-795f8.web.app/",
+      "githuburl": "https://github.com/JCGViljoen/Capstone",
+      "image": "https://i.postimg.cc/j2Zxczvs/Screenshot-35.png"
     },
     {
       "id": 6,
@@ -129,13 +129,7 @@
       "image": "https://i.postimg.cc/W493Y0GX/C12-Justin-Scholtz-2-min.jpg"
       
     },
-    {
-      "name": "Ayesha Galant",
-      "relation": "Colleague",
-      "message": "Working alongside Jason on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic.",
-      "image": "https://i.postimg.cc/vHKMMzgR/C12-Ayesha-Galant-Class1-1.jpg"
-      
-    },
+
     {
       "id": 2,
       "name": "Summer De Wet",
@@ -174,6 +168,14 @@
       "relation":"Colleague",
       "message": "Jason is a very great person he works well in a team and also works really hard , and he is always punctual. He has a good understanding of IT and web development, he would be a great asset to your team and a very reliable team member. Any team would be lucky if you were to accept him.",
       "image": "https://i.postimg.cc/HsSQ58K4/IMG-20230505-WA0000.jpg"
+      
+    },
+    {
+      "id": 7,
+      "name": "Ayesha Galant",
+      "relation": "Colleague",
+      "message": "Working alongside Jason on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic.",
+      "image": "https://i.postimg.cc/vHKMMzgR/C12-Ayesha-Galant-Class1-1.jpg"
       
     }
   ]
