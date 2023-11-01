@@ -1,28 +1,34 @@
 {
   "skills": [
     {
+      "id": 1,
       "name": "JavaScript",
       
       "image": "https://i.postimg.cc/fRKP6p7p/Java-Script-logo-vector-01.png"
     },
     {
+      "id": 2,
       "name": "Vue.js",
       "image": "https://i.postimg.cc/GptX62mT/Vue-JS-logo-vector-01.png"
     },
     {
+      "id": 3,
       "name": "HTML",
       "image": "https://i.postimg.cc/1z8KJjvp/HTML-5-logo-vector-01.png"
     },
     {
+      "id": 4,
       "name": "CSS",
       "image": "https://i.postimg.cc/QCz8kVCg/CSS-3-logo-vector-01.png"
     },
     {
+        "id": 5,
         "name": "Bootstrap",
         "image": "https://i.postimg.cc/c4qwSJXt/bootstrap-icons.png"
 
     },
     {
+      "id": 6,
       "name": "Github",
       "image": "https://i.postimg.cc/wThMC0Sj/github-logo.png"
 
@@ -30,14 +36,15 @@
   ],
   "education": [
     {
-        
+        "id":1,
         "qualification": "Web Development",
         "instituition": "Life Choices Avademy",
         "year": "present",
         "certificate": ""
 
     },
-    {
+    {  
+         "id": 2,
         "qualification": "NSC, matric",
         "instituition": "Kuils River Technical High School",
         "year": 2016,
@@ -45,6 +52,7 @@
 
     },
     {
+         "id": 3,
         "qualification": "AWS Bootcamp",
         "instituition": "Rlabs, Athlone ",
         "year": 2022,
@@ -52,7 +60,8 @@
 
         
     },
-    {
+    {  
+        "id": 4,
         "qualification": "DATA Analyst Foundation",
         "instituition": "Cousera",
         "year": 2021,
@@ -62,52 +71,58 @@
     }
 
   ],
-  "projects": [
+  "project": [
     {
-      "title": "BMI Calculator",
+      "id": 1,
+      "title": "BMI calculator",
       "description": "I created a bmi calculator using html, css and javascript adding cascading color scheme as part of a project at life choices academy",
-      "netlify-url": "https://jasonbmicalculator.netlify.app/",
-      "gihub-url":"https://github.com/JCGViljoen/BMIcalculator",
+      "netlifyurl": "https://jasonbmicalculator.netlify.app/",
+      "githuburl":"https://github.com/JCGViljoen/BMIcalculator",
       "image": "https://i.postimg.cc/brJhVnBD/Screenshot-2023-07-01-113736.png"
     },
     {
-        "title": "Calculator",
+        "title": "BMI Calculator",
         "description": "I built a claculator as one of our first javascript tasks",
-        "netlify-url": "https://boisterous-elf-e9c2bb.netlify.app/",
-        "gihub-url": "https://github.com/JCGViljoen/BMIcalculator",
-        "image": ""
+        "netlifyurl": "https://boisterous-elf-e9c2bb.netlify.app/",
+        "githuburl": "https://github.com/JCGViljoen/BMIcalculator",
+        "image": "https://i.postimg.cc/7LZBg0wX/Screenshot-2023-07-01-115012.png"
     },
     {
+      "id": 3,
       "title": "e-commerce website",
       "description": "I created a guitar themed, e-commerce website using html, css, bootstrap and javascript, where usues can ue the site to added products in real time ",
-      "netlify-url": "https://e-commerce-store-guitars.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/e-commercesite-project",
+      "netlifyurl": "https://e-commerce-store-guitars.netlify.app/",
+      "githuburl": "https://github.com/JCGViljoen/e-commercesite-project",
       "image": "https://i.postimg.cc/hP8YQsPS/Screenshot-2023-07-01-115535.png"
     },
     {
+      "id": 4,
       "title": "to do list app",
       "description": "A to do list app made with html, css and javascript that saves a user input in real time   ",
-      "netlify-url": "https://viljoentodolist.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/to-do-list",
+      "netlifyurl": "https://viljoentodolist.netlify.app/",
+      "githuburl": "https://github.com/JCGViljoen/to-do-list",
       "image": "https://i.postimg.cc/t48ysDz0/Screenshot-2023-07-02-151221.png"
     },
     {
+      "id": 5,
       "title": "Dummy portfolio",
       "description": "Created a portfolio using bootstrap, css and html",
-      "netlify-url": "https://marvelous-naiad-9c6b01.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/myportfolio",
+      "netlifyurl": "https://marvelous-naiad-9c6b01.netlify.app/",
+      "githuburl": "https://github.com/JCGViljoen/myportfolio",
       "image": "https://i.postimg.cc/NFWqKj16/Screenshot-2023-07-02-152455.png"
     },
     {
+      "id": 6,
       "title": "Temperature Converter",
       "description": " A converter app converting fahrenheit to celcius or celcius to fahrenheit ",
-      "netlify-url": "https://vijoentemp-converter.netlify.app/",
-      "gihub-url": "https://github.com/JCGViljoen/tempconverter",
+      "netlifyurl": "https://vijoentemp-converter.netlify.app/",
+      "githuburl": "https://github.com/JCGViljoen/tempconverter",
       "image": "https://i.postimg.cc/W1CG59rb/temp-converter.png"
     }
   ],
   "testimonials": [
     {
+      "id": 1,
       "name": "Justin Scholtz",
       "relation": "Colleague",
       "message": "Jason is a very friendly and helpful person, always willing to help you with anything you struggling with which makes him the perfect candidate to have on your team and I haven't even mentioned his skill set yet which is top notch. Over the past 6 months, I've noticed that his a quick learner and is able to over come any challenge that his faced with.",
@@ -122,6 +137,7 @@
       
     },
     {
+      "id": 2,
       "name": "Summer De Wet",
       "relation": "Colleague",
       "message": "Jason is a very considerate and helpful person who is very pleasant to work with. He is hardworking and always completes his tasks, Having him in your workplace will be an asset because he is a very hard worker",
@@ -129,13 +145,15 @@
       
     },
     {
+      "id": 3,
       "name": "Seth ",
       "relation": "Mentor",
-      "message": "Jason is dedicated, hard working and a team player. He/She works well with his/her peers and performs well on his/her projects. He/She has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him.",
+      "message": "Jason is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. Hehas a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him.",
       "image": "https://i.postimg.cc/DyWqrwK9/Screenshot-2023-07-02-150549.png"
       
     },
     {
+       "id": 4,
       "name": "Imtiyaaz",
       "relation":"Colleague",
       "message": "Jason is kind, hard-working person and is very interested in coding .He is very friendly and helpful when comes to giving new ideas .",
@@ -143,6 +161,7 @@
       
     },
     {
+       "id": 5,
       "name": "Rabia Haucha",
       "relation":"Colleague",
       "message": "Jason is a go-getter ,he is really a gem whether on a personal or work level he is just a great human being overall.He is also very helpful and is quite intellectually smart .If you dont understand something he is always willing to explain and make sure you understand .He makes you feel comfortable and his really a joyous character.He really works hard and is very focused on his goals and work so don't disturb him but honestly a great guy and really he will make any company go from ZERO to HERO !",
@@ -150,6 +169,7 @@
       
     },
     {
+       "id": 6,
       "name": "Alonso Cupido",
       "relation":"Colleague",
       "message": "Jason is a very great person he works well in a team and also works really hard , and he is always punctual. He has a good understanding of IT and web development, he would be a great asset to your team and a very reliable team member. Any team would be lucky if you were to accept him.",
