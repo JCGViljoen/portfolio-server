@@ -132,10 +132,10 @@
 
     {
       "id": 2,
-      "name": "Summer De Wet",
-      "relation": "Colleague",
-      "message": "Jason is a very considerate and helpful person who is very pleasant to work with. He is hardworking and always completes his tasks, Having him in your workplace will be an asset because he is a very hard worker",
-      "image": "https://i.postimg.cc/C1NZgWpH/20230509-171206.jpg"
+      "name": "Joel",
+      "relation": "Senior Lecturer",
+      "message": "I would like to introduce Jason, a highly creative, well-behaved, and dedicated individual who thoroughly enjoys collaborating with his peers and excels in project work. Jason has acquired an extensive range of skills and tools, including Web Development, JavaScript, ExpressJS, MySQL, Wireframe, VueJS, Bootstrap, and many more. I am honored to recommend him to you as a skilled and dedicated developer.",
+      "image": "https://i.postimg.cc/RVfYWPSn/joel.png"
       
     },
     {
@@ -159,7 +159,7 @@
       "name": "Rabia Haucha",
       "relation":"Colleague",
       "message": "Jason is a go-getter ,he is really a gem whether on a personal or work level he is just a great human being overall.He is also very helpful and is quite intellectually smart .If you dont understand something he is always willing to explain and make sure you understand .He makes you feel comfortable and his really a joyous character.He really works hard and is very focused on his goals and work so don't disturb him but honestly a great guy and really he will make any company go from ZERO to HERO !",
-      "image": "https://i.postimg.cc/KvKYqKj5/Screenshot-20221111-094743.jpg"
+      "image": "https://i.postimg.cc/PJ5sk1s5/LCA-Rabia-Haucha-Ju23-2.jpg"
       
     },
     {
@@ -176,6 +176,14 @@
       "relation": "Colleague",
       "message": "Working alongside Jason on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic.",
       "image": "https://i.postimg.cc/vHKMMzgR/C12-Ayesha-Galant-Class1-1.jpg"
+      
+    },
+    {
+      "id": 8,
+      "name": "Taflynne",
+      "relation": "Colleague",
+      "message": "Jason Viljoen is very talented person. He is a kind person with drive and dedication.I like his work ethic and creative attitude to counter issues or problems. He is definitely an asset to any company that onboards him.",
+      "image": "https://i.postimg.cc/J0RDCrQQ/Snapchat-565097172.jpg"
       
     }
   ]
